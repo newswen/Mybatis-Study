@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: one_aop
+  aop:
+    proxy-target-class: true
